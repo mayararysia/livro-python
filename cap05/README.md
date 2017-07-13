@@ -1,10 +1,10 @@
-# **Python Cap05- Estruturas de Dados**
+# **Python Cap05 - Estruturas de Dados**
 
 
 **Realiza consultas em parte dos dados dos gastos públicos da Copa 2014.**
 
-dados : linhas
-metadados: colunas
+   * dados : linhas
+   * metadados: colunas
 
 **Foram ultilizados:**
 * Strings e números;
