@@ -19,7 +19,15 @@
 	
 * **Capítulo08 - Testes em python**
    * Exemplos de testes.
-	
+
+* **Capítulo09 - Módulos e pacotes**
+   * Mostra o relacionamento de pacotes e módulos;
+   * Agrupa os módulos e cria o pacote copa_transparente.
+
+* **Capítulo10 - Trabalhando com arquivos**
+   * Popula o modelo de objetos do capítulo 07.
+
 **OBS.:**
    * Os capítulos 04 e 05 dependem do capítulo 03;
    * O capítulo 08 depende do capítulo 06 para realizar os testes.
+   * O capítulo 10 popula os dados do capítulo 07.
