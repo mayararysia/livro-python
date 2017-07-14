@@ -29,5 +29,5 @@
 
 **OBS.:**
    * Os capítulos 04 e 05 dependem do capítulo 03;
-   * O capítulo 08 depende do capítulo 06 para realizar os testes.
+   * O capítulo 08 depende do capítulo 06 para realizar os testes;
    * O capítulo 10 popula os dados do capítulo 07.
