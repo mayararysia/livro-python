@@ -29,6 +29,8 @@
 
 * **Capítulo11 - Um passeio por alguns tipos definidos na biblioteca padrão**
 
+* **Capítulo12 - Conceitos e padrões da linguagem**
+
 **OBS.:**
    * Os capítulos 04 e 05 dependem do capítulo 03;
    * O capítulo 08 depende do capítulo 06 para realizar os testes.
