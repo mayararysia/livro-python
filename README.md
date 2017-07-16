@@ -31,6 +31,8 @@
 
 * **Capítulo12 - Conceitos e padrões da linguagem**
 
+* **Capítulo13 - Elementos com sintaxe específica**
+
 **OBS.:**
    * Os capítulos 04 e 05 dependem do capítulo 03;
    * O capítulo 08 depende do capítulo 06 para realizar os testes.
